@@ -59,4 +59,4 @@ Source : [bibliothèque de données de Kenneth French](https://mba.tuck.dartmout
 7. Annexes : le code complet (non compté dans les 10 pages)
 
 ## Limites
-22 mois par période, 3 facteurs seulement, facteurs construits à partir des mêmes paniers, un seul réglage de validation croisée, dates de crise choisies par l'équipe.
+22 mois par période, 3 facteurs seulement, facteurs construits à partir des mêmes paniers, un seul réglage de validation croisée, dates de crise choisies par l'équipe( jai pris 22 mois pour avoir la meme longueur de périodes ( crises pas en continues de 2007 a 2009 puis les 3 mois de covid , puis 2013 janvier a 2014 octobre pour la période calme ).
