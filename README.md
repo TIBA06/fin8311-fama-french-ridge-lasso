@@ -1,7 +1,8 @@
 # FIN8311 : stabilité du modèle de Fama-French (OLS, Ridge, Lasso)
 
 Projet de session du cours FIN8311 (Méthodes quantitatives en finance), UQAM.
-Équipe: , .
+Équipe: Tidiani Ba,Battista Glemin-Orsini,
+Cecile Vanessa Njiki Nyanjo,Mariem Zein .
 
 *Cette page est un guide pour l'équipe. Le code à lire et à vérifier est dans le notebook.*
 
